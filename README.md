@@ -2,19 +2,20 @@
 
 ## Project overview
 
-This dashboard analyzes online retail sales data to identify key business insights, trends, and performance indicators.
+This dashboard was created using data processed and analyzed in SQL.
 
-## Key insights
+It visualizes key business metrics and provides insights into sales performance.
 
-- Total sales performance
-- Revenue trends over time
-- Customer purchasing behavior
-- KPI monitoring
+## Related SQL project
+
+Data preparation and analysis were done here:
+
+https://github.com/anna-g-data/online-retail-sql-analysis
 
 ## Tools used
 
-- Power BI
 - SQL
+- Power BI
 - Data visualization
 - Data analysis
 
@@ -22,6 +23,9 @@ This dashboard analyzes online retail sales data to identify key business insigh
 
 See Online_Retail_Dashboard.pdf
 
-## Purpose
+## Skills demonstrated
 
-This project was created as part of my Data Analyst portfolio to demonstrate my ability to transform raw data into meaningful business insights using Power BI.
+- SQL data analysis
+- Data cleaning
+- Dashboard design
+- Business intelligence
